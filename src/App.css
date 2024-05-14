@@ -29,7 +29,7 @@ body {
 }
 
 main {
-
+ height: 100vd;
 }
 
 @media (max-width: 574px) {
