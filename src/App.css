@@ -16,6 +16,10 @@ body {
   color: #646fa7;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  color: #fff;
+}
+
 .pad-container {
   padding: 60px 20px;
 }
